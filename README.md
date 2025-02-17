@@ -1,5 +1,5 @@
 # ansible-project-
-'''
+```
  1  sudo yum install
     2  sudo yum install update
     3  sudo yum install tree -y
@@ -58,5 +58,5 @@
    56  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
    57  git push origin main
    58  history
-'''
+```
 
